@@ -1,0 +1,1 @@
+Welcome my project say python linkenter.py and start seeing html and javascript source.
